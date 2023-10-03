@@ -1,7 +1,7 @@
 # Data-Analytics-Project
 
 # Project-Description
-Our Sales Dasboard project is designed to provide insights into our sales performance. It offers a user friendly interface that transforms complex sales data into easily digestible visualizations, enabling decicision makers with the information needed to optimize strategies, track KPIs and make data-driven decisions. With interactive features this dashboard offers an all-encompassing view of sales trends, customer behaviors, and revenue analysis, driving growth and success for our organization.
+Designed to provide insights into our sales performance our sales dashboard offers a user-friendly interface that transforms complex sales data into easily digestible visualizations, enabling decision-makers with the information needed to optimize strategies, track KPIs, and make data-driven decisions. With interactive features, this dashboard offers an all-encompassing view of sales trends, customer behaviors, and revenue analysis, driving growth and success for our organization.
 
 # Key-Features
 1. Interactive Visualizations that enable users to interact with charts by allowing them to hover over data points.
