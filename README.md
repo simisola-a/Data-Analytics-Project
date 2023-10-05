@@ -28,6 +28,15 @@ Designed to provide insights into our sales performance our sales dashboard offe
  3. Enhanced Interactivity: Adding more interactive elements like drill-down options, additional filters, and so on will help to improve the overall user experience.
  4. Predictive Analytics: There is the possibility of incorporating predictive analytics into the dashboard. Using Predictive Analytic models can help forecast future sales that provide data-driven insights for improved decision-making, cost reduction, and risk management and help in optimizing marketing campaigns.
 
+# Key-Insights
+1. 2013 generated the most revenue.
+2. Australia generated the most revenue.
+3. Married individuals generated more revenue than single persons.
+4. Convinced seekers had the most revenue followed by Casual Buyers and then Brand Seekers.
+5. the 35-49 demographic generated the most revenue followed by 50-64, 65 and Above and 20-34.
+6. The weekday with the most revenue was Sunday and the least was Tuesday.
+7. The quarters with the highest revenue in the year 2011, 2012, 2013, and 2014 were Q4, Q1, Q4 and Q1 respectively.
+
 
 # Conclusion
 This data analytics project focused on obtaining insights to improve company sales by utilizing a detailed dataset of customer behaviors and purchase histories. These insights have enabled us to make the following key business suggestions:
