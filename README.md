@@ -48,26 +48,10 @@ This data analytics project focused on obtaining insights to improve company sal
 # Contact-Information
    1. Email - ugochiaribeana123@gmail.com 
    2. Link to Sales Dashboard - https://public.tableau.com/app/profile/ugochinyere.aribeana/viz/CapstoneProject_16933234259880/Dashboard1
+   3. Other -  https://www.fiverr.com/simisola_a   
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/simisola_a rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-a00fdedf-88fe-49c9-ad4d-c3a6fe232c3e' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >simisola_a</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hi, I am a university student currently pursuing a degree in Electrical and Electronics Engineering.
-I've read 200+ books in genres such as romance, mystery, thriller, fantasy/paranormal, historical fiction, and Greek Mythology. 
-When I'm not reading, I love to cook and make clothes
-I might not be the most experienced beta reader but I make up for it by investing time and effort in understanding your vision. I am dedicated to helping you craft the best story possible and provide detailed, honest, and constructive feedback.
-Let's unlock your story's potential today!</div>
-        </div>
-    </a>
-</div>
 
-<script id='fiverr-seller-widget-script-a00fdedf-88fe-49c9-ad4d-c3a6fe232c3e' src='https://widgets.fiverr.com/api/v1/seller/simisola_a?widget_id=a00fdedf-88fe-49c9-ad4d-c3a6fe232c3e' data-config='{"category_name":"Writing \u0026 Translation"}' async='true' defer='true'></script>
 
 
 
